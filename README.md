@@ -22,7 +22,7 @@ Based on the numbers of movie genres (during 2010 - 2022) and their individual a
 
 ## The Data
 
-The analysis is based on the datasets which can be found in the ZippedData folder. It was provided by the Flatiron School.
+The analysis is based on the datasets which can be found in the data folder. It was provided by the Flatiron School.
 
 I have decided to use following data files:
 
