@@ -17,7 +17,7 @@ Microsoft want to get in the movie industry, but they don’t know anything abou
 
 ## Project Overview
 
-Based on the numbers of movie genres (during 2010 - 2022) and their individual average rating, I determined which genres are the most popular ones. Also, I defined the major competitors using the total gross income of each studio. Finally, I determined the directors whose movies have the highest average ratings based on viewers'number of votes (threshold 700,000). There are many more factors that determine a successful movie. The data analysis in this project paints a better picture of the movie industry overall and factors to consider in producing a successful movie.
+Based on the numbers of movie genres (during 2010 - 2022) and their individual average rating, I determined which genres are the most popular ones. Also, I defined the major competitors using the total gross income of each studio. Finally, I determined the directors whose movies have the highest average ratings based on viewers' number of votes (threshold 700,000). There are many more factors that determine a successful movie. The data analysis in this project paints a better picture of the movie industry overall and factors to consider in producing a successful movie.
 
 
 ## The Data
