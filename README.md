@@ -47,7 +47,7 @@ I imported data from the repository, then I cleaned data using different methods
 
 ## For More Information 
 
-Please revie my full analysis in my Jupyter Notebook or my presentation
+Please review my full analysis in my JupyterNotebook.pdf or my presentation.pdf
 
 
 
