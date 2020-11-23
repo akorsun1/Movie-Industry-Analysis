@@ -8,11 +8,11 @@ Microsoft want to get in the movie industry, but they don’t know anything abou
 
 ## Objectives
 
-1.Inform Microsoft about the state of the current movie industry
+1. Inform Microsoft about the state of the current movie industry
 
-2.Use tool of data analysis to determine the characteristics of a successful movie
+2. Use tool of data analysis to determine the characteristics of a successful movie
 
-3.Make the informed recommendations about what makes a movie successful
+3. Make the informed recommendations about what makes a movie successful
 
 
 ## Project Overview
@@ -39,11 +39,11 @@ I imported data from the repository, then I cleaned data using different methods
 
 ## My Recommendations
 
-1.One of the elements of a successful movie is its genre. According to both visualisations shown in the analysis, I would recommend that Microsoft considers those movie genres with less competition but still enough of public interest,for example, history and biography.
+1. One of the elements of a successful movie is its genre. According to both visualisations shown in the analysis, I would recommend that Microsoft considers those movie genres with less competition but still enough of public interest,for example, history and biography.
 
-2.HC, P/DW, BV are the top three studios with over 400 million dollars average total gross income each. Because profit is another defining factor of a successful movie, I can consider those three studios competitors. Therefore, my second recommendation would be to analyse the work of the competitors to find out what is a competitive advantage Microsoft can have.
+2. HC, P/DW, BV are the top three studios with over 400 million dollars average total gross income each. Because profit is another defining factor of a successful movie, I can consider those three studios competitors. Therefore, my second recommendation would be to analyse the work of the competitors to find out what is a competitive advantage Microsoft can have.
 
-3.The third element that may contribute to making a successful movie is a professional director(s) whose movies draw viewers' attention and receive positive public reviews. Therefore, I would recommend that Microsoft hires(or analyse the movies of) directors that are within the top 10 most popular from the data analysis, even if the average movie rating is not the highest(10).
+3. The third element that may contribute to making a successful movie is a professional director(s) whose movies draw viewers' attention and receive positive public reviews. Therefore, I would recommend that Microsoft hires(or analyse the movies of) directors that are within the top 10 most popular from the data analysis, even if the average movie rating is not the highest(10).
 
 ## For More Information 
 
