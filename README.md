@@ -1,6 +1,6 @@
 # Movie Industry Analysis
 
-This project was completed as part of Flatiron School's Data Science Bootcamp (Module 1 Final Project).
+This project was completed as part of Flatiron School's Data Science Bootcamp.
 
 ## Business problem statement
 
